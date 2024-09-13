@@ -1,0 +1,8 @@
+fastapi==0.112.2
+numexpr==2.8.7
+pydantic==2.8.2
+pydantic_core==2.20.1
+pytest-metadata==3.0.0
+pytest-pylint==0.21.0
+pytest-subtests==0.12.1
+uvicorn==0.20.0
